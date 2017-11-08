@@ -49,8 +49,8 @@ class Product
 
 end
 
-tb = Product.new("TB", 2.0, 0.15)
-tg = Product.new("Tg", 2.0, 0.15)
-# puts tb.inspect
-# puts tb.total_price
-puts Product.shelf.inspect
+# tb = Product.new("TB", 2.0, 0.15)
+# tg = Product.new("Tg", 2.0, 0.15)
+# # puts tb.inspect
+# # puts tb.total_price
+# puts Product.shelf.inspect
